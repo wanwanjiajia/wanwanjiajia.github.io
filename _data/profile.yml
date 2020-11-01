@@ -1,20 +1,12 @@
-- caption: Friday Theme on GitHub
-  href: https://github.com/sfreytag/friday-theme
+- caption: Wanjia Zheng on GitHub
+  href: https://github.com/wanwanjiajia/wanwanjiajia.github.io
   icon: entypo/github.svg
 
-- caption: Stack Overflow
-  href: https://stackoverflow.com
-  icon: icons/stackoverflow.svg
+- caption: Linkedin
+  href: https://www.linkedin.com/in/%E4%B8%87%E5%98%89-%E9%84%AD-b140b81a0/
+  icon: entypo/linkedin.svg
 
-- caption: Facebook
-  href: https://www.facebook.com
-  icon: entypo/facebook.svg
-
-- caption: Twitter
-  href: https://www.twitter.com
-  icon: entypo/twitter.svg
-
-- caption: London
-  href: https://www.google.co.uk/maps/place/London/@51.528308,-0.3817765,10z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583
+- caption: Tokyo, Japan
+  href: https://www.google.co.uk/maps/place/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%B1%E4%BA%AC/@35.6681625,139.600783,11z/data=!3m1!4b1!4m5!3m4!1s0x60188b857628235d:0xcdd8aef709a2b520!8m2!3d35.6803997!4d139.7690174
   icon: entypo/location-pin.svg
 
