@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Friday Theme
 
-You can use the [editor on GitHub](https://github.com/wanwanjiajia/wanwanjiajia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## A Bootstrap 4 portfolio and blog theme for Jekyll
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
+* Example 2: my own homepage, http://www.freytag.org.uk
 
-### Markdown
+## Get Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
 
-```markdown
-Syntax highlighted code block
+## Usage
 
-# Header 1
-## Header 2
-### Header 3
+The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
 
-- Bulleted
-- List
+## Jekyll Version
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanwanjiajia/wanwanjiajia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+__Watch out!__ This theme uses {{site.baseurl}} throughout, so is not currently suitable for Jekyll 4. It works well with 3.8.5 and works well with GitHub Pages.
